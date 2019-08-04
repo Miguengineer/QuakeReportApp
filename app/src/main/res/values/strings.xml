@@ -15,4 +15,7 @@
 -->
 <resources>
     <string name="app_name">Quake Report</string>
+    <string name = "magnitude_textview">%1$.1f</string>
+    <string name = "date_textview">%1$s </string>
+    <string name = "time_textview">%1$s </string>
 </resources>
